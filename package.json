@@ -1,0 +1,19 @@
+{
+  "name": "clean_node_modules",
+  "version": "1.0.0",
+  "description": "清除某目录下所有node_modules文件夹（windows环境）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimliang/cleanNodeModules.git"
+  },
+  "author": "jimliang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimliang/cleanNodeModules/issues"
+  },
+  "homepage": "https://github.com/jimliang/cleanNodeModules#readme"
+}
